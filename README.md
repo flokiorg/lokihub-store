@@ -32,7 +32,7 @@ Here is the structure of an app entry:
   "webLink": "https://myapp.com",
   "playLink": "https://play.google.com/store/apps/details?id=com.myapp",
   "appleLink": "https://apps.apple.com/us/app/my-app/id123456",
-  "categories": ["social-media"],
+  "category": "social-media",
   "logo": "my-app.png",
   "installGuide": "Instructions for installing the app",
   "finalizeGuide": "Instructions for connecting the app to Lokihub",
@@ -51,7 +51,7 @@ Here is the structure of an app entry:
 *   `webLink`: URL to your app's website.
 *   `playLink`: URL to the Google Play Store.
 *   `appleLink`: URL to the Apple App Store.
-*   `categories`: An array of categories. Allowed values:
+*   `category`: The category of the app. Allowed values:
     *   `wallet-interfaces`
     *   `social-media`
     *   `ai`

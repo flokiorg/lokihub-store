@@ -7,14 +7,7 @@
         "webLink": "https://zapf.app",
         "playLink": "",
         "appleLink": "",
-        "categories": [
-            "social-media",
-            "payment-tools",
-            "merchant-tools",
-            "wallet-interfaces",
-            "nostr-tools",
-            "misc"
-        ],
+        "category": "payment-tools",
         "logo": "zapf.png",
         "installGuide": "",
         "finalizeGuide": "",
