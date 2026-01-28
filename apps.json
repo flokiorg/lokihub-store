@@ -1,15 +1,25 @@
 [
-   {
+    {
         "id": "zapf",
         "title": "Zapf",
         "description": "Zap Anyone, Anywhere",
-        "extendedDescription": "Zapf is a tool for zapping any user on the internet behind any provider: Discord, Facebook, X, Phone Number (RCS), Instagram, Email.",
+        "extendedDescription": "Zapf is a tool for zapping any user on the internet behind any provider: Discord, Facebook, X, Phone Number (RCS), Instagram, Email and Matrix.",
         "webLink": "https://zapf.app",
         "playLink": "",
         "appleLink": "",
-        "categories": ["social-media", "payment-tools", "merchant-tools", "wallet-interfaces", "nostr-tools", "misc"],
-        "logo": "logos/zapf.svg",
+        "categories": [
+            "social-media",
+            "payment-tools",
+            "merchant-tools",
+            "wallet-interfaces",
+            "nostr-tools",
+            "misc"
+        ],
+        "logo": "zapf.png",
         "installGuide": "",
-        "finalizeGuide": ""
-    } 
+        "finalizeGuide": "",
+        "version": "0.0.1-alpha",
+        "createdAt": 1769641709,
+        "updatedAt": 1769641709
+    }
 ]

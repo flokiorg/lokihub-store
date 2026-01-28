@@ -33,9 +33,12 @@ Here is the structure of an app entry:
   "playLink": "https://play.google.com/store/apps/details?id=com.myapp",
   "appleLink": "https://apps.apple.com/us/app/my-app/id123456",
   "categories": ["social-media"],
-  "logo": "logos/my-app.png",
+  "logo": "my-app.png",
   "installGuide": "Instructions for installing the app",
-  "finalizeGuide": "Instructions for connecting the app to Lokihub"
+  "finalizeGuide": "Instructions for connecting the app to Lokihub",
+  "version": "1.0.0",
+  "createdAt": 1700000000,
+  "updatedAt": 1700000000
 }
 ```
 
@@ -60,9 +63,12 @@ Here is the structure of an app entry:
     *   `nostr-tools`
     *   `games`
     *   `misc`
-*   `logo`: Relative path to your logo file in `logos/`.
+*   `logo`: Filename of the logo in `logos/` (must be PNG).
 *   `installGuide`: Text describing how to install/setup the app before connection.
 *   `finalizeGuide`: Text describing the connection process (e.g. where to paste the secret).
+*   `version` (Required): Semantic version of the app (e.g., "1.0.0").
+*   `createdAt` (Required): Unix timestamp of creation.
+*   `updatedAt` (Required): Unix timestamp of last update.
 
 ## Review Process
 
