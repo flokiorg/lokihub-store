@@ -3,16 +3,16 @@
         "id": "zapf",
         "title": "Zapf",
         "description": "Zap Anyone, Anywhere",
-        "extendedDescription": "Zapf is a tool for zapping any user on the internet behind any provider: Discord, Facebook, X, Phone Number (RCS), Instagram, Email and Matrix.",
+        "extendedDescription": "Zapf is a tool for zapping any user on the internet, supporting a wide range of platforms and protocols.",
         "webLink": "https://zapf.app",
         "playLink": "",
         "appleLink": "",
         "category": "payment-tools",
         "logo": "zapf.png",
-        "installGuide": "",
+        "installGuide": "Connect your Lokihub to Zapf to enable seamless zapping to any internet user directly from your node.",
         "finalizeGuide": "",
-        "version": "0.0.1-alpha",
+        "version": "0.0.2-alpha",
         "createdAt": 1769641709,
-        "updatedAt": 1769641709
+        "updatedAt": 1769646204
     }
 ]
