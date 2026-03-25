@@ -11,8 +11,8 @@
         "logo": "zapf.png",
         "installGuide": "Connect your Lokihub to Zapf to enable seamless zapping to any internet user directly from your node.",
         "finalizeGuide": "",
-        "version": "0.0.2-alpha",
+        "version": "0.0.3-alpha",
         "createdAt": 1769641709,
-        "updatedAt": 1769646204
+        "updatedAt": 1774452885
     }
 ]
