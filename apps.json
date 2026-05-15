@@ -14,5 +14,37 @@
         "version": "0.0.3-alpha",
         "createdAt": 1769641709,
         "updatedAt": 1774452885
+    },
+    {
+        "id": "zapf-telegram",
+        "title": "Zapf for Telegram",
+        "description": "Zap Anyone from Telegram",
+        "extendedDescription": "Zapf for Telegram is a bot integration that lets you zap any user directly from your Telegram chats, powered by your own Lokihub node.",
+        "webLink": "https://zapf.app",
+        "playLink": "",
+        "appleLink": "",
+        "category": "payment-tools",
+        "logo": "zapf-telegram.png",
+        "installGuide": "Connect your Lokihub to Zapf for Telegram to enable seamless zapping directly from your Telegram chats.",
+        "finalizeGuide": "",
+        "version": "0.0.1-alpha",
+        "createdAt": 1778889600,
+        "updatedAt": 1778889600
+    },
+    {
+        "id": "zapf-discord",
+        "title": "Zapf for Discord",
+        "description": "Zap Anyone from Discord",
+        "extendedDescription": "Zapf for Discord is a bot integration that lets you zap any user directly from your Discord server, powered by your own Lokihub node.",
+        "webLink": "https://zapf.app",
+        "playLink": "",
+        "appleLink": "",
+        "category": "payment-tools",
+        "logo": "zapf-discord.png",
+        "installGuide": "Connect your Lokihub to Zapf for Discord to enable seamless zapping directly from your Discord server.",
+        "finalizeGuide": "",
+        "version": "0.0.1-alpha",
+        "createdAt": 1778889600,
+        "updatedAt": 1778889600
     }
 ]
